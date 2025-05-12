@@ -1,0 +1,17 @@
+C:\DATOS\VS_Workspace\MyStore.Net Core\MyStore-Application\bin\Debug\net8.0\MyStore-Application.deps.json
+C:\DATOS\VS_Workspace\MyStore.Net Core\MyStore-Application\bin\Debug\net8.0\MyStore-Application.dll
+C:\DATOS\VS_Workspace\MyStore.Net Core\MyStore-Application\bin\Debug\net8.0\MyStore-Application.pdb
+C:\DATOS\VS_Workspace\MyStore.Net Core\MyStore-Application\obj\Debug\net8.0\MyStore-Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\DATOS\VS_Workspace\MyStore.Net Core\MyStore-Application\obj\Debug\net8.0\MyStore-Application.AssemblyInfoInputs.cache
+C:\DATOS\VS_Workspace\MyStore.Net Core\MyStore-Application\obj\Debug\net8.0\MyStore-Application.AssemblyInfo.cs
+C:\DATOS\VS_Workspace\MyStore.Net Core\MyStore-Application\obj\Debug\net8.0\MyStore-Application.csproj.CoreCompileInputs.cache
+C:\DATOS\VS_Workspace\MyStore.Net Core\MyStore-Application\obj\Debug\net8.0\MyStore-Application.dll
+C:\DATOS\VS_Workspace\MyStore.Net Core\MyStore-Application\obj\Debug\net8.0\refint\MyStore-Application.dll
+C:\DATOS\VS_Workspace\MyStore.Net Core\MyStore-Application\obj\Debug\net8.0\MyStore-Application.pdb
+C:\DATOS\VS_Workspace\MyStore.Net Core\MyStore-Application\obj\Debug\net8.0\ref\MyStore-Application.dll
+C:\DATOS\VS_Workspace\MyStore.Net Core\MyStore-Application\bin\Debug\net8.0\MyStore-Domain.dll
+C:\DATOS\VS_Workspace\MyStore.Net Core\MyStore-Application\bin\Debug\net8.0\MyStore-Domain.pdb
+C:\DATOS\VS_Workspace\MyStore.Net Core\MyStore-Application\obj\Debug\net8.0\MyStore-Application.csproj.AssemblyReference.cache
+C:\DATOS\VS_Workspace\MyStore.Net Core\MyStore-Application\obj\Debug\net8.0\MyStore-.F805151B.Up2Date
+C:\DATOS\VS_Workspace\MyStore.Net Core\MyStore-Application\bin\Debug\net8.0\MyStore-Infrastructure.dll
+C:\DATOS\VS_Workspace\MyStore.Net Core\MyStore-Application\bin\Debug\net8.0\MyStore-Infrastructure.pdb
